@@ -9,7 +9,7 @@ To contribute to this project, please follow these steps:
 1. Clone the repository to your local machine using the command:
 
 ```
-git clone https://github.com/turquoise-cobra/marketplace.git
+git clone https://github.com/Hack-Weekly/turquoise-cobra-marketplace.git
 ```
 
 2. 📦 Install the necessary dependencies using one of the following commands depending on your package manager:
